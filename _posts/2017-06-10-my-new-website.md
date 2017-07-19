@@ -8,5 +8,7 @@ excerpt_separator: <!--more-->
 The idea is to create a website that makes it easy for people to know who I am.
 
 Get my most updated [résumé](https://www.dropbox.com/s/olj5j5pcenrfg2z/Silva_resume.pdf?dl=0) (at Dropbox).
+
 <!--more-->
+
 [Back]({{site.url}})
